@@ -9,14 +9,14 @@ import urllib2,time
 
 class Touch():
     global url
-    url = "http://ws2.cootekservice.com/voip/tmp_invitation?invitation=4ARZNRELFY&phone="
+    invitationCode = raw_input("Enter the invitation code :")
+    url = "http://ws2.cootekservice.com/voip/tmp_invitation?invitation="+invitationCode+"&phone="
     def createPhoneNumber(self,phoneNumberHead):
-        
         for i in xrange(0,10):
             for j in xrange(0,10):
                 for k in xrange(0,10):
                     for l in xrange(0,10):
-                        time.sleep(1)
+                        time.sleep(2)
                         phoneNumber = phoneNumberHead+str(i)+str(j)+str(k)+str(l)
                         print phoneNumber
                         try:
@@ -25,4 +25,5 @@ class Touch():
                             print e.code
             
 myTouch = Touch()
-myTouch.createPhoneNumber("1800258")
+phoneNumber = raw_input("Enter the phone number head:")
+myTouch.createPhoneNumber(phoneNumber)
