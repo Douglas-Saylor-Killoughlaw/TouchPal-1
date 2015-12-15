@@ -39,8 +39,6 @@ class Touch():
             f.write('%s\t****logs****\n'%time.strftime("%H:%M:%S",time.localtime()))
             f.write("user: %s\n"%self.userName)
             f.write("invitationCode: %s\n"%nameList[self.userName])
-    #         total = int(self.end)-int(self.start)
-#             print Touch.phoneNumber
             f.write("end phone number is: %s\n"%Touch.phoneNumber)
         except Exception,e:
             print "End by user..."
