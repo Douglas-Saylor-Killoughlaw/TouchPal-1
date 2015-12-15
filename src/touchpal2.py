@@ -42,7 +42,6 @@ class Touch():
             f.write("end phone number is: %s\n"%Touch.phoneNumber)
         except Exception,e:
             print "End by user..."
-            print e
         f.close()
         
 myTouch = Touch()
