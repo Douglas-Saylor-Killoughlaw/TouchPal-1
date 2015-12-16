@@ -28,7 +28,7 @@ class Touch():
             time.sleep(2)
             print phoneNumber
             try:
-                response = urllib2.urlopen(self.url+phoneNumber)
+                response = urllib2.urlopen(self.url+phoneNumber)  # @UnusedVariable
             except urllib2.HTTPError, e:
                 print e.code
                 print "some error coming ..."
@@ -41,7 +41,7 @@ class Touch():
             f.write("invitationCode: %s\n"%nameList[self.userName])
             f.write("end phone number is: %s\n"%Touch.phoneNumber)
         except Exception,e:
-            print "End by user..."
+            print "End by user...",e
         f.close()
         
 myTouch = Touch()
