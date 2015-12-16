@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 14:12:17	****logs****
 invitationCode: R4PbXzL
 end phone number is: 18676390200
@@ -10,6 +11,8 @@ end phone number is: 18676391000
 18:40:21	****logs****
 invitationCode: R4PbXzL
 end phone number is: 18676395000
+=======
+>>>>>>> branch 'master' of https://github.com/yifei325325/TouchPal.git
 21:46:52	****logs****
 21:53:05	****logs****
 user: liyifei
