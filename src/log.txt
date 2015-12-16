@@ -10,3 +10,36 @@ end phone number is: 18676391000
 18:40:21	****logs****
 invitationCode: R4PbXzL
 end phone number is: 18676395000
+21:46:52	****logs****
+21:53:05	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510020
+22:04:41	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510060
+22:06:38	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510070
+22:08:04	****logs****
+user: douyahuan
+invitationCode: R4229Ow
+end phone number is: 18675510080
+22:20:10	****logs****
+user: douyahuan
+22:22:57	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510110
+22:24:00	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510120
+22:24:58	****logs****
+user: liyifei
+22:26:48	****logs****
+user: liyifei
+invitationCode: R4PbXzL
+end phone number is: 18675510140
