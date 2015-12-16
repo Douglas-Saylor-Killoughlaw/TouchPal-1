@@ -1,0 +1,12 @@
+14:12:17	****logs****
+invitationCode: R4PbXzL
+end phone number is: 18676390200
+14:31:55	****logs****
+invitationCode: R4PbXzL
+end phone number is: 18676390500
+15:42:34	****logs****
+invitationCode: R4PbXzL
+end phone number is: 18676391000
+18:40:21	****logs****
+invitationCode: R4PbXzL
+end phone number is: 18676395000
